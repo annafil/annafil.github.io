@@ -120,7 +120,7 @@ body {
   font-size: 15px;
 }
 
-.panel-default .overview {
+.panel-default .overview h5 {
   text-align: left;
   font-size: 18px;
   line-height: 20px;
