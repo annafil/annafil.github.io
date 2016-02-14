@@ -114,13 +114,13 @@ body {
 .panel-default h5 {
   text-align: left;
   line-height: 30px;
-  font-size: 17px;
+  font-size: 18px;
 }
 .panel-default h6 {
   font-size: 15px;
 }
 
-.panel-default .overview p {
+.panel-default .overview {
   text-align: left;
   font-size: 18px;
   line-height: 20px;
