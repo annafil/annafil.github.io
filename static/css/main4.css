@@ -105,6 +105,7 @@ body {
  display: block;
  height: auto;
  max-width: 100%;
+ text-align:center;
 }
 
 h3 {
